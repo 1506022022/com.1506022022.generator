@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5ff1a1531bd37442b8e6d53c3ccc1e6, type: 3}
+  m_Name: InfoWizardCache
+  m_EditorClassIdentifier: 
+  JsonFormats:
+  - {fileID: 11400000, guid: 3e2d7a1465662be4d8bee90c411db0fc, type: 2}
+  - {fileID: 11400000, guid: 47312b5a12baded438a36f552713a614, type: 2}
+  - {fileID: 11400000, guid: 338166aa151de9f46959a45a3f58cdca, type: 2}
+  Generators: []
+  index: 0
+  connection: ',
+
+'

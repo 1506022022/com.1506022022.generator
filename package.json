@@ -1,0 +1,19 @@
+{
+  "name": "com.1506022022.generator",
+  "version": "1.0.0",
+  "displayName": "Generator",
+  "description": "...",
+  "unity": "2022.2",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "json"
+  ],
+  "author": {
+    "name": "1506022022",
+    "email": "vmap313@gmail.com",
+    "url": "https://github.com/1506022022/com.1506022022.generator.git"
+  }
+}
